@@ -5,7 +5,8 @@
 Execute this scripts in the order:
 1) `npm install`
 2) `npm run build:elements`
-3) `npm start`
+3) `npm install --save-dev  --unsafe-perm node-sass`
+4) `npm start`
 
 ## Create new Micro module
 
